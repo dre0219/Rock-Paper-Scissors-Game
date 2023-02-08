@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701808338.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+  color: #f1c40f;
+}
+
+
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.game-options {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #f1c40f;
+  color: #0d2f4c;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.game-result {
+  text-align: center;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 1.5em;
+}
